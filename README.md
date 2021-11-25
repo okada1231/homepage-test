@@ -7,4 +7,4 @@
 
 このページは、ホームページのテストのために作成されました。
 
-<i>Kaishi Professional University</i>
+_Kaishi Professional University_
