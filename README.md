@@ -9,6 +9,6 @@
 
 開始専門職大学（_Kaishi Professional University_）に在籍しています。
 
-![yoneyama-1](https://user-images.githubusercontent.com/95010965/143984899-91850887-d674-44f8-a4bd-a3a068dc9329.jpg)
+<img src="https://user-images.githubusercontent.com/95010965/143984899-91850887-d674-44f8-a4bd-a3a068dc9329.jpg" width="10">
 
 
