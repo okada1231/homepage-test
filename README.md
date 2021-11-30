@@ -12,6 +12,7 @@
 <img src="https://user-images.githubusercontent.com/95010965/143984899-91850887-d674-44f8-a4bd-a3a068dc9329.jpg" width="300">
 
 好きな食べ物：寿司（特にサーモン）
+
 得意なスポーツ：水泳、卓球
 
 
